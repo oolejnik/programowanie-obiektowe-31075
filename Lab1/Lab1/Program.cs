@@ -1,13 +1,51 @@
 ﻿using System.Globalization;
 
+//example 1
+
 const int requiredAge = 18;
-const int beerRequiredAge = 16;
-const string accessDeniedMessage = "Musisz mieć 16 lat";
+const string accessDeniedMessage = "Musisz mieć 18 lat";
 const string accessAllowedMessage = "Witaj w sklepie";
-const string beerRestrictionMessage = "Musisz mieć 18 lat";
 
+int age = 16;
 
+do
+{
+    Console.WriteLine("Podaj swój wiek");
+    string input = Console.ReadLine();
 
+    bool success = int.TryParse(input, out age);
+
+    if (!success)
+    {
+        Console.WriteLine("Wprowadź poprawne dane!");
+    }
+    else
+    {
+
+        if (age >= requiredAge)
+        {
+            Console.WriteLine(accessAllowedMessage);
+        }
+        else
+        {
+            Console.WriteLine(accessDeniedMessage);
+        }
+    }
+} while (age < requiredAge);
+
+//example 2
+
+/*var names =new string[] { "Artur", "Ania", "Karol", "Michał" };
+
+for (int i = 0; i < names.Length; i++)
+{
+    Console.WriteLine(names[i]);
+}
+
+foreach (var name in names)
+{
+    Console.WriteLine(name);
+}*/
 
 // zadanie 1
 /*
