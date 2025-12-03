@@ -2,7 +2,7 @@
 
 //example 1
 
-const int requiredAge = 18;
+/*const int requiredAge = 18;
 const string accessDeniedMessage = "Musisz mieć 18 lat";
 const string accessAllowedMessage = "Witaj w sklepie";
 
@@ -31,7 +31,7 @@ do
             Console.WriteLine(accessDeniedMessage);
         }
     }
-} while (age < requiredAge);
+} while (age < requiredAge);*/
 
 //example 2
 
@@ -48,8 +48,7 @@ foreach (var name in names)
 }*/
 
 // zadanie 1
-/*
-string password;
+/*string password;
 do
 {
     Console.Write("Podaj hasło: ");
@@ -60,8 +59,7 @@ Console.WriteLine("Zalogowano pomyślnie!"); */
 
 
 //zadanie 2
-/*
-string number;
+/*string number;
 int number1;
 do
 {
@@ -73,8 +71,7 @@ while (number1 <= 0);
 Console.WriteLine("Dobrze"); */
 
 //zadanie 3
-/*
-string[] towns = { "Wolsztyn", "Poznań", "Wrocław", "Leszno", "Zielona Góra" };
+/*string[] towns = { "Wolsztyn", "Poznań", "Wrocław", "Leszno", "Zielona Góra" };
 
 foreach (string town in towns)
 {
