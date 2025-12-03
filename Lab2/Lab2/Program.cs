@@ -38,7 +38,17 @@ class Kot : Zwierze
 
 //zadanie 6
 
-using System;
+Zwierze[] zwierzeta = new Zwierze[]
+{
+    new Pies(),
+    new Kot(),
+    new Zwierze()
+};
+
+foreach (var zwierze in zwierzeta)
+{
+    zwierze.DajGlos();
+}
 
 class Zwierze
 {
@@ -51,23 +61,4 @@ class Pies : Zwierze
 class Kot : Zwierze
 {
     public override void DajGlos() => Console.WriteLine("Miau!");
-}
-
-class Program
-{
-
-    static void Main()
-    {
-        Zwierze[] zwierzeta = new Zwierze[]
-        {
-            new Pies(),
-            new Kot(),
-            new Zwierze()
-        };
-
-        foreach (var zwierze in zwierzeta)
-        {
-            zwierze.DajGlos();
-        }
-    }
 }
