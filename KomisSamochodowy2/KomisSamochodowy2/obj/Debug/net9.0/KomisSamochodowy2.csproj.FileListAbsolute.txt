@@ -1,0 +1,15 @@
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\obj\Debug\net9.0\KomisSamochodowy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\obj\Debug\net9.0\KomisSamochodowy2.AssemblyInfoInputs.cache
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\obj\Debug\net9.0\KomisSamochodowy2.AssemblyInfo.cs
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\obj\Debug\net9.0\KomisSamochodowy2.csproj.CoreCompileInputs.cache
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\bin\Debug\net9.0\KomisSamochodowy2.exe
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\bin\Debug\net9.0\KomisSamochodowy2.deps.json
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\bin\Debug\net9.0\KomisSamochodowy2.runtimeconfig.json
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\bin\Debug\net9.0\KomisSamochodowy2.dll
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\bin\Debug\net9.0\KomisSamochodowy2.pdb
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\obj\Debug\net9.0\KomisSamochodowy2.dll
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\obj\Debug\net9.0\refint\KomisSamochodowy2.dll
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\obj\Debug\net9.0\KomisSamochodowy2.pdb
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\obj\Debug\net9.0\KomisSamochodowy2.genruntimeconfig.cache
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\obj\Debug\net9.0\ref\KomisSamochodowy2.dll
+C:\Users\roman\RiderProjects\KomisSamochodowy2\KomisSamochodowy2\obj\Debug\net9.0\KomisSamochodowy2.sourcelink.json
